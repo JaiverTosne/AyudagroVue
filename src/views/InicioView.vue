@@ -52,10 +52,10 @@
                     </a>
 
                     <div id="passwordHelpBlock" class="text-center form-text">
-                      ¿No tienes cuenta? ¡registrate ya!
+                      ¿No tienes cuenta? 
                     </div>
 
-                    <b-button pill variant type="submit" class="boton d-grid gap-2 mx-auto" to="/registro">
+                    <b-button pill variant type="submit" class="boton d-grid gap-2 mx-auto" to="/registrar">
                       Registrarme</b-button>
                   </form>
                 </b-card-text>
